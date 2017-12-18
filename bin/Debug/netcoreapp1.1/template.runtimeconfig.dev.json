@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/koji/.dotnet/store/|arch|/|tfm|",
+      "/Users/koji/.nuget/packages"
+    ]
+  }
+}

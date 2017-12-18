@@ -1,0 +1,10 @@
+/Users/koji/Repositories/C#/epicodus/template/obj/Debug/netcoreapp1.1/template.csproj.CoreCompileInputs.cache
+/Users/koji/Repositories/C#/epicodus/template/obj/Debug/netcoreapp1.1/template.AssemblyInfoInputs.cache
+/Users/koji/Repositories/C#/epicodus/template/obj/Debug/netcoreapp1.1/template.AssemblyInfo.cs
+/Users/koji/Repositories/C#/epicodus/template/bin/Debug/netcoreapp1.1/template.deps.json
+/Users/koji/Repositories/C#/epicodus/template/bin/Debug/netcoreapp1.1/template.runtimeconfig.json
+/Users/koji/Repositories/C#/epicodus/template/bin/Debug/netcoreapp1.1/template.runtimeconfig.dev.json
+/Users/koji/Repositories/C#/epicodus/template/bin/Debug/netcoreapp1.1/template.dll
+/Users/koji/Repositories/C#/epicodus/template/bin/Debug/netcoreapp1.1/template.pdb
+/Users/koji/Repositories/C#/epicodus/template/obj/Debug/netcoreapp1.1/template.dll
+/Users/koji/Repositories/C#/epicodus/template/obj/Debug/netcoreapp1.1/template.pdb
